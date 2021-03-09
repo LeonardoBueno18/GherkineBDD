@@ -14,3 +14,4 @@ Contexto:
       Então é mostrada a página de produtos
       Quando selecionado o primeiro produto
       Então é mostrada a página de informações do produto
+      
