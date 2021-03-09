@@ -12,3 +12,4 @@ Contexto:
        E selecionar a categoria imagens
        E selecionar a primeira imagem
        Então é mostrada uma imagem de Batata
+       
